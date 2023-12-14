@@ -151,4 +151,10 @@ padding-bottom: 5px;
      flex-wrap: wrap;
      justify-content: space-evenly;
    } 
+    .jas{
+      display: flex;
+ justify-content:center;
+ margin: 60px;
+ 
+   }
 }

@@ -158,3 +158,15 @@ padding-bottom: 5px;
  
    }
 }
+@keyframes swp {
+   from{margin: 100px;}
+   To{margin: 0px;}
+}
+body{
+   margin: 0px;
+   animation-name: swp;
+    animation-duration: 1s;
+    animation-delay: 1s;
+    animation-timing-function:ease-in-out;
+    animation-iteration-count: 1;
+}
